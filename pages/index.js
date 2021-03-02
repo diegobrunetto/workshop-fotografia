@@ -150,7 +150,7 @@ export default function Home() {
       <section className="relative py-16 bg-white min-w-screen animation-fade animation-delay">
         <div className="container px-0 px-8 mx-auto sm:px-12 xl:px-5 w-screen">
           <h2 className="text-5xl font-bold tracking-tight text-center">
-            Preguntas frequentes
+            Preguntas frecuentes
           </h2>
 
           <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
